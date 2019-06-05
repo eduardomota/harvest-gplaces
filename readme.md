@@ -1,5 +1,5 @@
 # harvest-gplaces
-Havest Google Places to a Worksheet XLSX.
+Harvest Google Places to a Worksheet XLSX.
 
 ## Dependencies
 
