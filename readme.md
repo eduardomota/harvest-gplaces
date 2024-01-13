@@ -1,4 +1,7 @@
 # harvest-gplaces
+
+``` Descontinued, old API ```
+
 Harvest Google Places to a Worksheet XLSX.
 
 ## Dependencies
